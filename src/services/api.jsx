@@ -1,4 +1,4 @@
-const API = import.meta.env.VITE_API_URL || "https://aidocumentassistance-1.onrender.com/api";
+const API = import.meta.env.VITE_API_URL || "https://aidocumentassistance-1.onrender.com";
 
 const api = {
   register: (data) =>
